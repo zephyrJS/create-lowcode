@@ -1,0 +1,21 @@
+{
+  "name": "create-lowcode",
+  "version": "1.0.0",
+  "description": "create lowcode cli",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zephyrJS/create-lowcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zephyrJS/create-lowcode/issues"
+  },
+  "homepage": "https://github.com/zephyrJS/create-lowcode#readme"
+}
